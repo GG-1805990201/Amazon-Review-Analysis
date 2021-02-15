@@ -9,7 +9,7 @@ To run this project :
  1.) Clone the project.
  
  
- 2.) Open the Amazone-review-analysis.ipynb on jupyterlab, Google colab or Kaggle.
+ 2.) Open the amazon-review-analysis.ipynb on jupyterlab, Google colab or Kaggle.
  
  
  3.) Check that the following packages are installed (in case of jupyter):
